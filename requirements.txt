@@ -1,0 +1,6 @@
+numpy
+pandas
+gensim
+matplotlib
+mecab-python
+tqdm
